@@ -1,0 +1,8 @@
+# layer1
+dataset_name: M001
+
+# loadcell
+loadcell_args:
+  divid: [1,2]
+
+
